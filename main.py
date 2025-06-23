@@ -2,8 +2,8 @@ import requests
 import datetime as dt
 
 ENDPOINT_URL = "https://pixe.la/v1/users"
-username = "walid-user123"
-TOKEN = "Ex@mpleUs3r!"
+username = ""
+TOKEN = ""
 header = {
     "X-USER-TOKEN": TOKEN
 }
